@@ -1,0 +1,39 @@
+body{
+    background-color: black;
+    color: white;
+}
+h1 {
+    font-size: 45px;
+}
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 25px;
+}
+h4{
+    font-size: 15px;
+}
+h5{
+    font-size: 10px;
+}
+h6{
+    font-size: 5px;
+}
+.second-p{
+  color: red; font-style: italic; font-size: 30px;
+}
+
+.header-list{
+    /* display: block; */
+    background-color: blueviolet;
+    margin: 100px 20px 30px 40px;
+    padding: 20px 30px;
+    text-align: center;
+}
+.whyUJ{
+    color: palevioletred; font-style:oblique
+}
+.PRE1{
+    font-family:'Trebuchet MS';
+}
